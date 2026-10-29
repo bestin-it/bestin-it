@@ -12,7 +12,7 @@ A free, open-source KeePass-compatible password manager with a built-in LLM gate
 a scoped token (allowed models, budget, approval), the provider key stays in the encrypted vault.
 Works with Claude Code, GitHub Copilot, Ollama, LM Studio, llama.cpp, vLLM and 30+ providers.
 
-[**⬇ Download for Windows**](https://bestin-it.com/llm-vault/) · [Source code](https://github.com/bestin-it/llm-vault) · [Why I built it](https://bestin-it.com/ai-agent-api-key-security/)
+[**⬇ Download for Windows**](https://bestin-it.com/llm-vault/) · [Source code](https://github.com/bestin-it/llm-vault) · [Why I built it](https://bestin-it.com/ai-agent-api-key-security/) · [▶ 90-second video](https://youtu.be/WYxzj_zIJUs)
 
 ### Worth reading
 
@@ -25,4 +25,4 @@ More: [Local AI & LLMs](https://bestin-it.com/category/ai/) · [AI Tools & Autom
 
 ### Find me
 
-[bestin-it.com](https://bestin-it.com) · [X @bestin_it](https://twitter.com/bestin_it) · [LinkedIn](https://www.linkedin.com/in/artur-poniedzia%C5%82ek-73897297)
+[bestin-it.com](https://bestin-it.com) · [YouTube @bestin-it](https://www.youtube.com/@bestin-it) · [X @bestin_it](https://twitter.com/bestin_it) · [LinkedIn](https://www.linkedin.com/in/artur-poniedzia%C5%82ek-73897297)
